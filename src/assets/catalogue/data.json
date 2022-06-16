@@ -1,0 +1,92 @@
+[
+      {
+        "id": "5a35b57c-7e09-4fd4-b7cf-3f683678c761",
+        "index": 0,
+        "name": "Red Love Cup",
+        "img": "/src/assets/img/red-love-cup.jpg",
+        "price": "$37",
+        "discountPrice": "$25",
+        "availableStock": true
+      },
+      {
+        "id": "9debcad3-a414-4474-88ce-9481b276113d",
+        "index": 1,
+        "name": "Black Tea Cup",
+        "img": "/src/assets/img/black-tea-cup.jpg",
+        "price": "$29",
+        "discountPrice": "$15",
+        "availableStock": true
+      },
+      {
+        "id": "506aa176-acd8-47a1-ad23-d71665536d34",
+        "index": 2,
+        "name": "B&W Essentials Mug",
+        "img": "/src/assets/img/bw-essentials-mug.jpg",
+        "price": "$19",
+        "discountPrice": "",
+        "availableStock": true
+      },
+      {
+        "id": "1a66721a-53bf-4056-9795-e3468fb66643",
+        "index": 3,
+        "name": "Ceramic Tea",
+        "img": "/src/assets/img/ceramic-tea.jpg",
+        "price": "$46",
+        "discountPrice": "",
+        "availableStock": true
+      },
+      {
+        "id": "132fa558-2b1a-464e-a3a7-1b2036ce7c05",
+        "index": 4,
+        "name": "Espresso Cup by Mugs.co",
+        "img": "/src/assets/img/espresso-cup-by-mugs-co.jpg",
+        "price": "$25",
+        "discountPrice": "",
+        "availableStock": false
+      },
+      {
+        "id": "3285f64c-d132-49a6-bbb1-f40a6c3018a7",
+        "index": 5,
+        "name": "Golden Designers Mug",
+        "img": "/src/assets/img/golden-designers-mug.jpg",
+        "price": "$69",
+        "discountPrice": "$50",
+        "availableStock": true
+      },
+      {
+        "id": "8a5d878e-5ece-4e90-b5b0-93d9d2630b1e",
+        "index": 6,
+        "name": "No Handle Bar Cup",
+        "img": "/src/assets/img/no-handle-bar-cup.jpg",
+        "price": "$34",
+        "discountPrice": "",
+        "availableStock": false
+      },
+      {
+        "id": "4c3579c1-5fbe-4e29-98f6-4e0c95d78e4d",
+        "index": 7,
+        "name": "Pink Premium Ceramic",
+        "img": "/src/assets/img/pink-premium-ceramic.jpg",
+        "price": "$99",
+        "discountPrice": "",
+        "availableStock": true
+      },
+      {
+        "id": "ed12d8eb-817b-4bde-85b6-4a1f61b2a3b5",
+        "index": 8,
+        "name": "Summer Designer Cup",
+        "img": "/src/assets/img/summer-designer-cup.jpg",
+        "price": "$29",
+        "discountPrice": "",
+        "availableStock": true
+      },
+      {
+        "id": "b9eb92ab-b7cb-45b5-a8ed-9ddfc16982d2",
+        "index": 9,
+        "name": "Winter Style Mug",
+        "img": "/src/assets/img/winter-style-mug.jpg",
+        "price": "$25",
+        "discountPrice": "",
+        "availableStock": true
+      }
+    ]

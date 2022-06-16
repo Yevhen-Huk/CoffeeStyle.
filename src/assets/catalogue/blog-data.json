@@ -1,0 +1,62 @@
+[
+  {
+    "id": "31cc8f0b-fe08-454e-9546-d5ef268cad8b",
+    "index": 0,
+    "title": "Health Check: why do I get a headache when I haven’t had my coffee?",
+    "description": "It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur dicta ea earum excepturi magnam placeat.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. A, alias aperiam at atque beatae commodi ducimus explicabo, mollitia neque pariatur porro provident quis vero voluptatum.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aperiam debitis deleniti, distinctio esse exercitationem explicabo fuga itaque iure maxime, minus mollitia nemo optio porro quas quidem, quis rem sapiente similique sunt ullam unde vero voluptas?",
+    "date": "October 26, 2018",
+    "img": "/src/assets/img/news-img-1.jpg",
+    "author": "Jason Smith"
+  },
+  {
+    "id": "40e61d1a-2264-4aa2-b4af-594947ae534e",
+    "index": 1,
+    "title": "How long does a cup of coffee keep you awake?",
+    "description": "It is a paradisematic country, in which roasted parts. Vel qui et ad voluptatem.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aperiam debitis deleniti, distinctio esse exercitationem explicabo fuga itaque iure maxime, minus mollitia nemo optio porro quas quidem, quis rem sapiente similique sunt ullam unde vero voluptas?\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aspernatur autem beatae debitis deleniti dolore molestiae repellendus reprehenderit, sint ut.",
+    "date": "October 22, 2018",
+    "img": "/src/assets/img/news-img-2.jpg",
+    "author": "Amanda Black"
+  },
+  {
+    "id": "db40a2f1-ee3c-43a7-a3c7-7f16b7e7b930",
+    "index": 2,
+    "title": "Recent research suggests that heavy coffee drinkers may reap health benefits.",
+    "description": "It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, alias aperiam at atque beatae commodi ducimus explicabo, mollitia neque pariatur porro provident quis vero voluptatum.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aperiam debitis deleniti, distinctio esse exercitationem explicabo fuga itaque iure maxime, minus mollitia nemo optio porro quas quidem, quis rem sapiente similique sunt ullam unde vero voluptas?",
+    "date": "October 19, 2018",
+    "img": "/src/assets/img/news-img-3.jpg",
+    "author": "Alex Nelson"
+  },
+  {
+    "id": "e82e7cfe-041b-4edb-a8f4-cce102c8c18e",
+    "index": 3,
+    "title": "Health Check: why do I get a headache when I haven’t had my coffee?",
+    "description": "It is a paradisematic country, in which roasted parts. Vel qui et ad voluptatem.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, alias aperiam at atque beatae commodi ducimus explicabo, mollitia neque pariatur porro provident quis vero voluptatum.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aperiam debitis deleniti, distinctio esse exercitationem explicabo fuga itaque iure maxime, minus mollitia nemo optio porro quas quidem, quis rem sapiente similique sunt ullam unde vero voluptas?\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. A, alias aperiam at atque beatae commodi ducimus explicabo, mollitia neque pariatur porro provident quis vero voluptatum.",
+    "date": "October 16, 2018",
+    "img": "/src/assets/img/news-img-2.jpg",
+    "author": "Catrine Bold"
+  },
+  {
+    "id": "b3e00f94-f18d-4db7-b500-2ee040c24115",
+    "index": 4,
+    "title": "Recent research suggests that heavy coffee drinkers may reap health benefits.",
+    "description": "It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, alias aperiam at atque beatae commodi ducimus explicabo, mollitia neque pariatur porro provident quis vero voluptatum.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aspernatur autem beatae debitis deleniti dolore molestiae repellendus reprehenderit, sint ut.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur dicta ea earum excepturi magnam placeat.",
+    "date": "October 13, 2018",
+    "img": "/src/assets/img/news-img-3.jpg",
+    "author": "Amanda Black"
+  },
+  {
+    "id": "0cec5446-3e51-4924-9d08-9773e29ac888",
+    "index": 5,
+    "title": "Health Check: why do I get a headache when I haven’t had my coffee?",
+    "description": "It is a paradisematic country, in which roasted parts. Vel qui et ad voluptatem.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aspernatur autem beatae debitis deleniti dolore molestiae repellendus reprehenderit, sint ut.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur dicta ea earum excepturi magnam placeat.\\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aperiam debitis deleniti, distinctio esse exercitationem explicabo fuga itaque iure maxime, minus mollitia nemo optio porro quas quidem, quis rem sapiente similique sunt ullam unde vero voluptas?",
+    "date": "October 7, 2018",
+    "img": "/src/assets/img/news-img-1.jpg",
+    "author": "Jason Smith"
+  }
+]
